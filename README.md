@@ -1,4 +1,4 @@
-# Doctor-Patient Portal (Medi-Connect)
+# Doctor-Patient Portal
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2ea44f?style=for-the-badge&logo=render&logoColor=white)](https://doctor-patient-portal-08hh.onrender.com/index.jsp)
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![JSP & Servlets](https://img.shields.io/badge/JSP_&_Servlets-Core-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://jakarta.ee/)
