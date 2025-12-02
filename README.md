@@ -132,8 +132,8 @@ If you prefer using an IDE like Eclipse:
 **Vijay Chaudhari** (Full Stack Java Developer)
 
   * **GitHub:** [techiviju](https://www.google.com/search?q=https://github.com/techiviju)
-  * **LinkedIn:** [Your LinkedIn Link]
-  * **Email:** [Your Email]
+  * **LinkedIn:** .[LinkedIn Profile](https://www.linkedin.com/in/vijay-achaudhari/)
+  * **Email:** vijaychaudhari5220@gmail.com
 
 -----
 
