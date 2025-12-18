@@ -2,7 +2,7 @@ name: Keep Backend Alive
 
 on:
   schedule:
-    # This runs every 14 minutes (Render sleeps after 15 mins)
+    # This runs every 7 minutes (Render sleeps after 15 mins)
     - cron: '*/7 * * * *'
   workflow_dispatch: # This allows you to run it manually to test
 
@@ -13,4 +13,4 @@ jobs:
       - name: Ping the Backend
         run: |
           echo "Pinging backend to keep it awake..."
-          curl -I "https://doctor-patient-portal-08hh.onrender.com/status"
+          curl -I "https://doctor-portal-4o9k.onrender.com/status"
